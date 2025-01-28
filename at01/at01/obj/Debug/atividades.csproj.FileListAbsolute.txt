@@ -1,0 +1,6 @@
+C:\Users\Aluno_Manha\Documents\SharpDevelop Projects\atividades\atividades\bin\Debug\atividades.exe.config
+C:\Users\Aluno_Manha\Documents\SharpDevelop Projects\atividades\atividades\bin\Debug\atividades.exe
+C:\Users\Aluno_Manha\Documents\SharpDevelop Projects\atividades\atividades\bin\Debug\atividades.pdb
+C:\Users\Aluno_Manha\Documents\SharpDevelop Projects\atividades\atividades\obj\Debug\atividades.csprojResolveAssemblyReference.cache
+C:\Users\Aluno_Manha\Documents\SharpDevelop Projects\atividades\atividades\obj\Debug\atividades.exe
+C:\Users\Aluno_Manha\Documents\SharpDevelop Projects\atividades\atividades\obj\Debug\atividades.pdb
