@@ -15,11 +15,10 @@ namespace at05
 		public static void Main(string[] args)
 		{
 			Console.Write("Digite um caractere: ");
-			char caractere = Convert.ToChar(Console.ReadLine());
+	        char caractere = Console.ReadKey().KeyChar; // .KeyChar adicionado
+	        Console.WriteLine("\nVocê digitou: " + caractere);
 			
-			Console.WriteLine("Caractere inserido: "+ caractere);
-			
-			Console.Write("Aperte algo para fechar . . . ");
+			Console.Write("Press any key to continue . . . ");
 			Console.ReadKey(true);
 		}
 	}
